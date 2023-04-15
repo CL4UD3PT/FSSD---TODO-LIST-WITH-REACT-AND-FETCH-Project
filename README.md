@@ -32,6 +32,8 @@ This whole exercise is about asynchronous programming because the interactions `
     - first letter is capitalized
     - must be a unique task to be added to the list
 
+# ℹ️ Future features to add:
+- update code to work with components
 
 
 ## Notes:
